@@ -1,1 +1,1 @@
-<script type="text/javascript" src="http://www.wdzx.com/api.php?mod=js&bid=196"></script>
+<script>alert(123);</script>
